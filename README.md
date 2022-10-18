@@ -1,5 +1,5 @@
 # Swarn Holidays App
-This is an Android and iOS application project made with Flutter as UI framework and Firebase as backend-as-a-service.
+This is a Concept Android and iOS application project made with Flutter as UI framework and Firebase as backend-as-a-service.
 
 <h3 align="left">Various repositories I have used here:</h3>
 <p>*<a href="https://pub.dev/packages/cupertino_icons" target="blank"> cupertino_icons <a/><p/>
